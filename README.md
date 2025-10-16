@@ -51,7 +51,7 @@
 - Advanced Java concepts  
 - Node.js for full-stack projects  
 
-### 👯 I’m looking to collaborate on
+### 🚀 I’m looking to collaborate on
 - Open-source projects related to Java or web development  
 
 ### ⚡ Fun fact
