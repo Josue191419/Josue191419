@@ -25,11 +25,9 @@
 
 <p align="center">
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="52" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="52" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS3" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git" /></a>
 </p>
 
@@ -51,17 +49,10 @@
 
 ### 🌱 I’m currently learning
 - Advanced Java concepts  
-- React + Node.js for full-stack projects  
+- Node.js for full-stack projects  
 
 ### 👯 I’m looking to collaborate on
 - Open-source projects related to Java or web development  
-
-### 💬 Ask me about
-- Java, Python, web technologies, Git & GitHub  
-
-### 📫 How to reach me
-- LinkedIn: [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil-linkedin)  
-- Email: tuemail@example.com  
 
 ### ⚡ Fun fact
 - I love coding, learning new things, and exploring tech trends!  
