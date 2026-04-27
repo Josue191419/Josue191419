@@ -55,4 +55,4 @@
 - Open-source projects related to Java or web development  
 
 ### ⚡ Fun fact
-- I love coding, learning new things, and exploring tech trends!  
+-I love understanding in depth what I’m doing and questioning why I use it, what it’s for, and what I can build with it, while also learning new things and exploring tech trends.
